@@ -103,7 +103,7 @@ int main(int argc, char **argv){
 		//}
 		waitKey(0);
 		
-		//a finir
+		//a finir, laura
 	}
 
 	 destroyAllWindows();
